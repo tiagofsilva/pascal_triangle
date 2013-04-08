@@ -6,13 +6,12 @@
 	</projects>
 	<buildSpec>
 		<buildCommand>
-			<name>org.scala-ide.sdt.core.scalabuilder</name>
+			<name>com.aptana.ide.core.unifiedBuilder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
 	</buildSpec>
 	<natures>
-		<nature>org.scala-ide.sdt.core.scalanature</nature>
-		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>com.aptana.projects.webnature</nature>
 	</natures>
 </projectDescription>
