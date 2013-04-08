@@ -1,0 +1,4 @@
+This is the solution for the famous Pascal Triangle (https://en.wikipedia.org/wiki/Pascal's_triangle)
+
+The solution was implemented using Scala language as a way to learn more stuff about functional programming 
+and tail-recursive algorithms.
